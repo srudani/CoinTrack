@@ -14,3 +14,6 @@ Display list of top 100 crypto coins and show details with interactive chart of 
 
 ## Dependencies 
 - SWift Cached Async Image - used for loading and caching coin images. (nice wrapper around default AsyncImageView which lakes caching functionality)
+
+## Notes:
+- This app uses CoinGecko public api to download and display coin list, it can be used directly with limited functionalities without any access key
